@@ -9,4 +9,4 @@ git remote add origin https://github.com/jatinsuthar0711/Ghost.git
 git push -u origin main
 
 
-How to reach me: [Instagram](https://www.instagram.com/Ghost https://g.co/kgs/zcYEmKa)  
+How to reach me: [Instagram](https://g.co/kgs/zcYEmKa)  
